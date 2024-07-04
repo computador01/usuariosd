@@ -1,0 +1,14 @@
+.form{
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-49%, -49%);
+    width: 60%;
+    
+  }
+
+
+div{
+    border-radius: 15px;
+}
+
